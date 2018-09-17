@@ -86,8 +86,8 @@ Design Sprint 是一個以一週為單位產品開發流程，至少五天為一
 
 ### 流程四：打模
 1. 用各類型的工具建造分鏡腳本需要的原型，例如：
-    1.　Landing page design
-    2.　App user interface
+      1.　Landing page design
+      2.　App user interface
 
 ### 流程五：驗證
 1. 與原本的專家或受訪者解釋課程內容
