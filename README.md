@@ -168,3 +168,4 @@ Design Sprint 是個很燒腦的活動。尤其在下午進行的時候，很多
 ## 課程媒體紀錄
 * [課程照片](https://drive.google.com/drive/folders/1al1Zk2Nqn4Wh0vh1VY754A5hK3YEBLij?usp=sharing)
 * [各組合照](https://drive.google.com/drive/folders/19Hq0ANr0-NPEzGsWAANoysb37LgQjsb-?usp=sharing)
+* [課程圖像紀錄 Graphic Record](https://drive.google.com/file/d/1cnGxan3qG98OUErtofiWGNVY9C-YV68c/view?usp=sharing)
