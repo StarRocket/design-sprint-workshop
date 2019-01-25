@@ -188,3 +188,8 @@ Design Sprint 是個很燒腦的活動。尤其在下午進行的時候，很多
 * [課程照片](https://drive.google.com/drive/folders/1al1Zk2Nqn4Wh0vh1VY754A5hK3YEBLij?usp=sharing)
 * [各組合照](https://drive.google.com/drive/folders/19Hq0ANr0-NPEzGsWAANoysb37LgQjsb-?usp=sharing)
 * [課程圖像紀錄 Graphic Record](https://drive.google.com/file/d/1cnGxan3qG98OUErtofiWGNVY9C-YV68c/view?usp=sharing)
+
+## 關於本文件
+
+本文由 Star Rocket 三創育成基金會整理分享，採用[姓名標示-相同方式分享 4.0 國際 (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh_TW)授權。
+
